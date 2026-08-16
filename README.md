@@ -15,7 +15,6 @@
 [![GitHub issues](https://img.shields.io/github/issues/HereIsMuhammad/spss-statistics-course?style=for-the-badge&color=red)](https://github.com/HereIsMuhammad/spss-statistics-course/issues)
 
 [![Last Commit](https://img.shields.io/github/last-commit/HereIsMuhammad/spss-statistics-course?style=flat-square)](https://github.com/HereIsMuhammad/spss-statistics-course/commits/main)
-[![Repo Size](https://img.shields.io/github/repo-size/HereIsMuhammad/spss-statistics-course?style=flat-square)](https://github.com/HereIsMuhammad/spss-statistics-course)
 [![Contributors](https://img.shields.io/github/contributors/HereIsMuhammad/spss-statistics-course?style=flat-square)](https://github.com/HereIsMuhammad/spss-statistics-course/graphs/contributors)
 
 </div>
