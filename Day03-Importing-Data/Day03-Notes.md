@@ -63,7 +63,3 @@ If a numeric column has even a single non-numeric entry (like someone typing "tw
 ## Key Takeaway
 
 Importing saves time, but it is not "set and forget." Always review Variable View after import, this single habit prevents most errors in later statistical tests.
-
----
-
-**Next:** Day 4, Understanding levels of measurement (Nominal, Ordinal, Scale).
