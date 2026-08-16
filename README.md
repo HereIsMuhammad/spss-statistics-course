@@ -2,7 +2,7 @@
 
 # 📊 SPSS Statistics Course
 
-### A structured, hands-on journey through SPSS — from raw data to real statistical insight.
+### A structured, hands-on journey through SPSS, from raw data to real statistical insight.
 
 [![SPSS](https://img.shields.io/badge/IBM%20SPSS-Statistics-0F62FE?style=for-the-badge&logo=ibm&logoColor=white)](https://www.ibm.com/spss)
 [![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)](LICENSE)
@@ -22,7 +22,7 @@
 
 ## 📖 Introduction
 
-This repository documents a complete, practical journey through **IBM SPSS Statistics** — from entering your first dataset to running regression, ANOVA, and factor analysis like a researcher.
+This repository documents a complete, practical journey through **IBM SPSS Statistics**, from entering your first dataset to running regression, ANOVA, and factor analysis like a researcher.
 
 Each module includes:
 - 📝 **Notes**: a clear explanation of the concept and when to use it
@@ -33,19 +33,19 @@ Each module includes:
 
 ## 📌 Table of Contents
 
-- [Getting Started with SPSS (Days 1–4)](#-getting-started-with-spss-days-14)
-- [Descriptive Statistics (Days 5–9)](#-descriptive-statistics-days-59)
-- [Data Preparation (Days 10–13)](#-data-preparation-days-1013)
-- [Normality & Reliability (Days 14–16)](#-normality--reliability-days-1416)
-- [Correlation & Regression (Days 17–21)](#-correlation--regression-days-1721)
-- [Comparing Groups (Days 22–26)](#-comparing-groups-days-2226)
-- [Categorical & Advanced Analysis (Days 27–29)](#-categorical--advanced-analysis-days-2729)
+- [Getting Started with SPSS (Days 1 to 4)](#-getting-started-with-spss-days-1-to-4)
+- [Descriptive Statistics (Days 5 to 9)](#-descriptive-statistics-days-5-to-9)
+- [Data Preparation (Days 10 to 13)](#-data-preparation-days-10-to-13)
+- [Normality & Reliability (Days 14 to 16)](#-normality--reliability-days-14-to-16)
+- [Correlation & Regression (Days 17 to 21)](#-correlation--regression-days-17-to-21)
+- [Comparing Groups (Days 22 to 26)](#-comparing-groups-days-22-to-26)
+- [Categorical & Advanced Analysis (Days 27 to 29)](#-categorical--advanced-analysis-days-27-to-29)
 - [Capstone Project (Day 30)](#-capstone-project-day-30)
 - [Tech Stack](#-tech-stack)
 - [How to Use This Repo](#-how-to-use-this-repo)
 - [License](#-license)
 
-## 🚀 Getting Started with SPSS (Days 1–4)
+## 🚀 Getting Started with SPSS (Days 1 to 4)
 
 <details>
 <summary>Click to expand Days 1 to 4</summary>
@@ -59,7 +59,7 @@ Each module includes:
 
 </details>
 
-## 📊 Descriptive Statistics (Days 5–9)
+## 📊 Descriptive Statistics (Days 5 to 9)
 
 <details>
 <summary>Click to expand Days 5 to 9</summary>
@@ -74,7 +74,7 @@ Each module includes:
 
 </details>
 
-## 🧹 Data Preparation (Days 10–13)
+## 🧹 Data Preparation (Days 10 to 13)
 
 <details>
 <summary>Click to expand Days 10 to 13</summary>
@@ -88,7 +88,7 @@ Each module includes:
 
 </details>
 
-## ✅ Normality & Reliability (Days 14–16)
+## ✅ Normality & Reliability (Days 14 to 16)
 
 <details>
 <summary>Click to expand Days 14 to 16</summary>
@@ -101,7 +101,7 @@ Each module includes:
 
 </details>
 
-## 📈 Correlation & Regression (Days 17–21)
+## 📈 Correlation & Regression (Days 17 to 21)
 
 <details>
 <summary>Click to expand Days 17 to 21</summary>
@@ -116,7 +116,7 @@ Each module includes:
 
 </details>
 
-## ⚖️ Comparing Groups (Days 22–26)
+## ⚖️ Comparing Groups (Days 22 to 26)
 
 <details>
 <summary>Click to expand Days 22 to 26</summary>
@@ -131,7 +131,7 @@ Each module includes:
 
 </details>
 
-## 🧩 Categorical & Advanced Analysis (Days 27–29)
+## 🧩 Categorical & Advanced Analysis (Days 27 to 29)
 
 <details>
 <summary>Click to expand Days 27 to 29</summary>
@@ -151,7 +151,7 @@ Each module includes:
 
 | Day | Topic |
 |---|---|
-| 30 | Capstone Project: Full survey dataset — cleaning, reliability, correlation, regression, and a written report |
+| 30 | Capstone Project: Full survey dataset, cleaning, reliability, correlation, regression, and a written report |
 
 </details>
 
