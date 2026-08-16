@@ -6,7 +6,7 @@
 
 [![SPSS](https://img.shields.io/badge/IBM%20SPSS-Statistics-0F62FE?style=for-the-badge&logo=ibm&logoColor=white)](https://www.ibm.com/spss)
 [![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)](LICENSE)
-[![Progress](https://img.shields.io/badge/Progress-0%2F30%20Days-orange?style=for-the-badge)](#-days)
+[![Progress](https://img.shields.io/badge/Progress-08%2F30%20Days-orange?style=for-the-badge)](#-days)
 [![Status](https://img.shields.io/badge/Status-In%20Progress-yellow?style=for-the-badge)](#-days)
 
 [![GitHub stars](https://img.shields.io/github/stars/HereIsMuhammad/spss-statistics-course?style=for-the-badge&color=yellow)](https://github.com/HereIsMuhammad/spss-statistics-course/stargazers)
