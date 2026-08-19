@@ -1,5 +1,5 @@
-<div align="center">
-
+<div align="center"> 
+  
 # 📊 SPSS Statistics Course
 
 ### A structured, hands-on journey through SPSS, from raw data to real statistical insight.
